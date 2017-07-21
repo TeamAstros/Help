@@ -1,0 +1,13 @@
+$ cd Learn-Recall
+
+$ git checkout -b JW
+
+
+$ git add -A
+
+
+$ git commit -m "OK"
+
+$ git push origin JW
+
+
