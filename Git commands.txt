@@ -1,13 +1,18 @@
-$ cd Learn-Recall
+SETTING UP YOUR ACCOUNT
+$ git config --global user.name "<Your username>"
+$ git config --global user.email "<Your email linked with the above username>
 
-$ git checkout -b JW
+CREATING A NEW BRANCH
+$ git checkout -b <name for new branch>
 
-
+UPLOADING A FILE
+$ cd <Repo name>
 $ git add -A
+$ git commit -m "<Any msq>"
+$ git push origin <Branch name>
 
+DOWNLOADING A REPO
+$ git clone <URL>
 
-$ git commit -m "OK"
-
-$ git push origin JW
-
-
+CHANGING BRANCH
+$ git checkout <branch name>
