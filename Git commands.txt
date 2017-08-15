@@ -1,6 +1,6 @@
 SETTING UP YOUR ACCOUNT
 $ git config --global user.name "<Your username>"
-$ git config --global user.email "<Your email linked with the above username>
+$ git config --global user.email "<Your email linked with the above username>"
 
 CREATING A NEW BRANCH
 $ git checkout -b <name for new branch>
